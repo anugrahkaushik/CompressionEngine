@@ -18,9 +18,9 @@ The program can compress files and reconstruct the original file through decompr
 
 ## Project Structure
 
-* `EntropyEncoder` — Compresses input files
-* `EntropyDecoder` — Decompresses compressed files
-* `DataIntegrityVerifier` — Verifies that the decompressed output matches the original
+* EntropyEncoder — Compresses input files
+* EntropyDecoder — Decompresses compressed files
+* DataIntegrityVerifier — Verifies that the decompressed output matches the original
 
 ## Compression Results
 
