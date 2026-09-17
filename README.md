@@ -1,7 +1,7 @@
 # CompressionEngine
-> **Copyright © 2026 Anugrah Kaushik. All Rights Reserved.**
->
-> This repository is provided for viewing and educational reference only. No permission is granted to copy, reproduce, modify, distribute, publish, sublicense, sell or otherwise use any portion of the source code without prior written permission from the copyright owner.
+**Copyright © 2026 Anugrah Kaushik. All Rights Reserved.**
+
+This repository is provided for viewing and educational reference only. No permission is granted to copy, reproduce, modify, distribute, publish, sublicense, sell or otherwise use any portion of the source code without prior written permission from the copyright owner.
 
 ## Overview
 
