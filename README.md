@@ -66,7 +66,7 @@ Tested on files from the [Canterbury Corpus](https://corpus.canterbury.ac.nz/).
 | world192.txt |          63.01% |
 | pi.txt       |          42.49% |
 
-**Note:** Compressed size is expressed as a percentage of the original file size. For example, `alice29.txt` is reduced to **57.66%** of its original size.
+**Note:** Compressed size is expressed as a percentage of the original file size. For example, alice29.txt is reduced to **57.66%** of its original size.
 Compression performance depends on the characteristics of the input data. Files that are already compressed, such as JPEG or MP4 files, may not become smaller.
 
 ## Testing
